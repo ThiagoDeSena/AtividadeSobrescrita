@@ -34,3 +34,6 @@ endereço
 
 
 Adicionalmente, cada classe deve conter um método chamado void imprimirValores(), que é responsável por imprimir os atributos da classe. Este método deve ser declarado em Pessoa e sobrescrito nas subclasses.
+
+![Sistema Hospitalar ](https://github.com/ThiagoDeSena/AtividadeSobrescrita/assets/110785400/6ab5a9a0-9823-46c1-8a81-79fe89159977)
+
